@@ -34,7 +34,7 @@ If you want to learn more about DevOps, subscribe to **https://www.youtube.com/@
 
 All your resources (files) will be held in a GIT repository. Those files are **application code** but also **infrastructure as a code**. 
 
-**Git** is a free tool used for source code management. Git is used to tracking changes in the source code, enabling multiple developers to work together on non-linear development. 
+**Git** is a free tool used for source code management. Git is used to track changes in the source code, enabling multiple developers to work together on non-linear development. 
 
 The two most popular Git platforms are **GitLab** and **GitHub**.
 
@@ -43,24 +43,16 @@ Here you need to learn Git commands, like git clone, branch, merge, and how to c
 **Resources:**
 
 - [Pro Git Book](https://git-scm.com/book/en/v2) <sup>FREE</sup>
-- [Learn Git by Atlassian](https://www.atlassian.com/git) <sup>FREE</sup>
-- [Learn Git Branching](https://learngitbranching.js.org/) <sup>FREE</sup>
-- [Learn Git & GitHub on CodeAcademy](https://www.codecademy.com/learn/learn-git) <sup>FREE</sup>
-- [Git Command Explorer](https://gitexplorer.com/) <sup>FREE</sup>
-- [Git Immersion](https://gitimmersion.com/index.html) <sup>FREE</sup>
-- [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html) <sup>FREE</sup>
-- [Git & GitHub Tutorial](https://www.youtube.com/watch?v=S7XpTAnSDL4) <sup>FREE</sup>
-- [Advanced Git Tutorial](https://www.youtube.com/watch?v=qsTthZi23VE) <sup>FREE</sup>
 
 ### 2. Learn one programming language
 
 As an engineer, it is recommended to know at least one programming language that you can use to write **automation scripts**.
 
-Some popular programming languages for DevOps-es are **Python, Go, and JavaScript**.
+Some popular programming languages for DevOps are **Python, Go, and JavaScript**.
 
 Python is a multi-paradigm language. Being an interpreted language, code is executed as soon as it is written, and the syntax allows for writing code in different ways. **Python** is frequently recommended as the first language new coders should learn, because of its focus on readability, consistency, and ease of use. 
 
-Here you need to learn basic concepts of programming languages, such as syntax, if/else, loops, data structures, etc.
+Here, you need to learn basic concepts of programming languages, such as syntax, if/else, loops, data structures, etc.
 
 **Resources:**
 
@@ -92,29 +84,16 @@ Here you can learn OS-specific languages, such as **Bash or Powershell**, or ind
 **Resources:**
 
 - [Operating System - Overview](https://www.tutorialspoint.com/operating_system/os_overview.htm) <sup>FREE</sup>
-- [Shell Scripting Tutorial](https://www.shellscript.sh/) <sup>FREE</sup>
-- [Powershell Tutorial for Beginners: Learn Powershell Scripting](https://www.guru99.com/powershell-tutorial.html)  <sup>FREE</sup>
-- [Bash Reference Manual](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html) <sup>FREE</sup>
-- [Ultimate Guide: Getting Started With Ubuntu](https://itsfoss.com/getting-started-with-ubuntu/) <sup>FREE</sup>
-- [FreeBSD Handbook](https://docs.freebsd.org/en/books/handbook/) <sup>FREE</sup>
-- [Linux command handbook](https://www.freecodecamp.org/news/the-linux-commands-handbook/) <sup>FREE</sup>
-- [Linux commands for Cloud and Devops engineers](https://www.youtube.com/watch?v=lCq4mYQL0WY) <sup>FREE</sup>
 
 ### 4. Learn Networking & Security
 
 A **network protocol** is an established set of rules that determine how data is transmitted between different devices in the same network. Essentially, it allows connected devices to communicate with each other, regardless of any differences in their internal processes, structure, or design. 
 
-Here you will need to know how a network works, how to configure **firewalls**, understand how **DNS** works, **OSI model**, IP addresses, ports, etc.
+Here you will need to know how a network works, how to configure **firewalls**, understand how **DNS** works, the **OSI model**, IP addresses, ports, etc.
 
 **Resources:**
 
 - [OSI Model Explained](https://www.cloudflare.com/en-gb/learning/ddos/glossary/open-systems-interconnection-model-osi/) <sup>FREE</sup>
-- [Computer Networking: A Top-Down Approach](https://www.amazon.com/Computer-Networking-Top-Down-Approach-7th/dp/0133594149) <sup>book</sup> [Video Content](https://www.youtube.com/playlist?list=PLByK_3hwzY3Tysh-SY9MKZhMm9wIfNOas)<sup>video</sup>
-- [TCP/IP and Networking Fundamentals for IT Pros](https://www.pluralsight.com/courses/tcpip-networking-it-pros) <sup>Pluralsight course</sup>
-- [DevSecOps : Master Securing CI/CD | DevOps Pipeline](https://www.udemy.com/course/devsecops/) <sup>Udemy course</sup>
-- [Hands-On Security in DevOps: Ensure continuous security, deployment, and delivery with DevSecOps](https://www.amazon.com/Hands-Security-DevOps-continuous-deployment/dp/1788995503) <sup> Book</sup>
-- [Securing DevOps: Security in the Cloud](https://www.amazon.com/Securing-DevOps-Security-Julien-Vehent/dp/1617294136/) <sup> Book</sup>
-- [Professor Messers Network+ course](https://www.professormesser.com/network-plus/n10-008/n10-008-video/n10-008-training-course/) <sup>FREE</sup>
 
 ### 5. Learn Server Management
 
@@ -124,19 +103,11 @@ Server management includes all the infrastructure monitoring and maintenance req
 - Build secure server environments.
 - Scale servers and related operations to meet the needs of the organization over time.
 
-Here you will need to know what is **forward and reverse proxies**, **caching servers**, and how to operate **Web Servers**, such as Nginx, Apache, or IIS.
+Here you will need to know what **forward and reverse proxies**, **caching servers**, and how to operate **Web Servers**, such as Nginx, Apache, or IIS.
 
 **Resources:**
 
 - [What is a reverse proxy?](https://www.cloudflare.com/en-gb/learning/cdn/glossary/reverse-proxy/) <sup>FREE</sup>
-- [What is a CDN edge server??](https://www.cloudflare.com/learning/cdn/glossary/edge-server/) <sup>FREE</sup>
-- [Cache Server](https://networkencyclopedia.com/cache-server/) <sup>FREE</sup>
-- [Reverse Proxy vs. Forward Proxy: The Differences](https://oxylabs.io/blog/reverse-proxy-vs-forward-proxy) <sup>FREE</sup>
-- [What is load balancing?](https://www.cloudflare.com/en-gb/learning/performance/what-is-load-balancing/) <sup>FREE</sup>
-- [What is a Firewall?](https://www.checkpoint.com/cyber-hub/network-security/what-is-firewall/) <sup>FREE</sup>
-- [The NGINX Handbook](https://www.freecodecamp.org/news/the-nginx-handbook/) <sup>FREE</sup>
-- [Learn Apache Server](https://www.twaino.com/en/blog/website-creation/apache-server-2/) <sup>FREE</sup>
-- [Learn IIS](https://www.dnsstuff.com/windows-iis-server-tools) <sup>FREE</sup>
 
 ### 6. Learn Containers
 
@@ -146,19 +117,11 @@ A **container** is a standard unit of software that packages up code and all its
 
 Here you need to know how to run containers, Docker Networking, Volumes, Dockerfiles, and run multiple containers with Docker-Compose.
 
-Docker Compose is important as pre-requisite for Kubernetes. It is a tool for defining and running multi-container Docker applications. With Compose, you use a YAML file to configure your application’s services. Then, with a single command, you create and start all the services from your configuration.
+Docker Compose is important as a prerequisite for Kubernetes. It is a tool for defining and running multi-container Docker applications. With Compose, you use a YAML file to configure your application’s services. Then, with a single command, you create and start all the services from your configuration.
 
 **Resources:**
 
 - [What are Containers?](https://cloud.google.com/learn/what-are-containers) <sup>FREE</sup>
-- [Learning Containers From The Bottom Up](https://iximiuz.com/en/posts/container-learning-path/) <sup>FREE</sup>
-- [Docker Crash Course for Absolute Beginners by TechWorld with Nana](https://www.youtube.com/watch?v=pg19Z8LL06w) <sup>FREE</sup>
-- [Docker Tutorial for Beginners by TechWorld with Nana](https://www.youtube.com/watch?v=3c-iBn73dDE) <sup>FREE</sup>
-- [Ultimate Docker Compose Tutorial by TechWorld with Nana](https://www.youtube.com/watch?v=SXwC9fSwct8) <sup>FREE</sup>
-- [Docker Mastery: with Kubernetes + Swarm from a Docker Captain](https://www.udemy.com/course/docker-mastery/) <sup>Udemy course</sup>
-- [What is Service Mesh?](https://www.redhat.com/en/topics/microservices/what-is-a-service-mesh) <sup>FREE</sup>
-- [DevOps with Kubernetes](https://devopswithkubernetes.com/) <sup>FREE</sup>
-- [OCI Specification](https://github.com/opencontainers/image-spec/blob/main/spec.md)
 
 ### 7. Learn Container Orchestration
 
@@ -168,22 +131,13 @@ Container orchestration can be used in any environment where you use containers.
 
 Here you need to learn how **Kubernetes** works, and how to administer the Kubernetes cluster and deploy applications on it.
 
-You need to know basic components of Kubernetes, such as: Master Node, Worker Node, Pod, ReplicaSet, Deployment, Service, Ingress, ConfigMap, Secret, PersistentVolume, PersistentVolumeClaim, StatefulSet, DaemonSet, Job and CronJob.
+You need to know basic components of Kubernetes, such as: Master Node, Worker Node, Pod, ReplicaSet, Deployment, Service, Ingress, ConfigMap, Secret, PersistentVolume, PersistentVolumeClaim, StatefulSet, DaemonSet, Job, and CronJob.
 
 Also, you need to know how to work with kubectl and Helm tools.
 
 **Resources:**
 
 - [Kubernetes Crash Course for Absolute Beginners by TechWorld with Nana](https://www.youtube.com/watch?v=s_o8dwzRlu4) <sup>FREE</sup>
-- [Primer: How Kubernetes Came to Be, What It Is, and Why You Should Care](https://thenewstack.io/primer-how-kubernetes-came-to-be-what-it-is-and-why-you-should-care/) <sup>Article</sup>
-- [Certified Kubernetes Administrator (CKA) with Practice Tests](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/) <sup>Udemy course</sup>
-- [Learn Kubernetes - Beginners to Advanced by KodeKloud](https://kodekloud.com/learning-path-kubernetes/) <sup>Course</sup>
-- [Understand when to use Cluster Services, Ingresses or API Gateways](https://gateway-api.sigs.k8s.io) <sup>FREE</sup>
-- [Understand which Problems Service Mesh solve (Use an Abstraction smi-spec.io](https://linkerd.io/2.12/features/) <sup>FREE</sup>
-- [Learn how to automate TLS](https://cert-manager.io/docs/) and  [DNS](https://github.com/kubernetes-sigs/external-dns) <sup>FREE</sup>
-- [Kubernetes Up and Running](https://www.amazon.com/_/dp/1491935677?tag=oreilly20-20) <sup>Book</sup>
-- [Kubernetes Learning Path - 50 days from zero to hero from Microsoft](https://azure.microsoft.com/en-us/resources/kubernetes-learning-path/) <sup>FREE</sup>
-- [Below Kubernetes: Demystifying container runtimes](https://www.youtube.com/watch?v=MDsjINTL7Ek) <sup>FREE</sup>
 
 ### 8. Learn Infrastructure as a code (X as Code)
 
@@ -191,7 +145,7 @@ Sometimes referred to as **IaC**, it refers to the techniques and tools used to 
 
 **Terraform** is the most popular infrastructure provisioning tool, but there are others such as Ansible, Chef, Puppet, and Vagrant.
 
-Here you need to know how to do **infrastructure provisioning** and **configuration management**.
+Here, you need to know how to do **infrastructure provisioning** and **configuration management**.
 
 **Resources:**
 
