@@ -1,8 +1,8 @@
 # DevOps Roadmap.
 
-This is a step-by-step guide on how to become a DevOps engineer, with links to relevant learning resources.
+This is a step-by-step guide on becoming a DevOps engineer, with links to relevant learning resources.
 
-If you want to learn more about DevOps, be sure to subscribe to **[my newsletter](https://newsletter.techworld-with-milan.com/)**. 
+If you want to learn more about DevOps, subscribe to **https://www.youtube.com/@DevOpsNest**. 
 
 ## Support My Work
 
