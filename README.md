@@ -173,21 +173,12 @@ Some **popular CI/CD tools** are: Jenkins, TeamCity, CircleCI, Bamboo, GitLab, a
 
 **Resources:**
 
-- [Continuous Integration](https://martinfowler.com/articles/continuousIntegration.html) <sup>FREE</sup>
-- [CI/CD Pipeline: A Gentle Introduction](https://semaphoreci.com/blog/cicd-pipeline) <sup>FREE</sup>
 - Jenkins:
     - [Jenkins, From Zero To Hero: Become a DevOps Jenkins Master](https://www.udemy.com/course/jenkins-from-zero-to-hero) <sup>Udemy course</sup>
-- Azure DevOps:
-    - [Learn Azure DevOps](https://milan.milanovic.org/post/ci-cd-with-azure-devops-yaml/) <sup>FREE</sup>
 - GitHub Actions:
     - [Learn GitHub actions](https://learn.microsoft.com/en-us/users/githubtraining/collections/n5p4a5z7keznp5) <sup>FREE</sup>
     - [GitHub Actions Tutorial by Tech World with Nana](https://www.youtube.com/watch?v=R8_veQiYBjI) <sup>FREE</sup>
     - [Workflow syntax for GitHub Actions](https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions) <sup>FREE</sup>
-- GitLab:
-    - [Learn GitLab with tutorials](https://docs.gitlab.com/ee/tutorials/) <sup>FREE</sup>
-    - [GitLab CI CD Tutorial for Beginners by Tech World With Nana](https://www.youtube.com/watch?v=qP8kir2GUgo) <sup>FREE</sup>
-    - [Get started with GitLab CI/CD](https://docs.gitlab.com/ee/ci/quick_start/) <sup>FREE</sup>
-    - [GitLab Cheatsheets](https://dev.to/jphi_baconnais/series/12928) <sup>FREE</sup>
 
 ### 10. Learn Monitoring & Observability
 
@@ -197,21 +188,11 @@ This is especially important when our software is in **production**, and we need
 
 The two most popular tools are **Prometheus** and **Grafana**, but also Cloud-based tools such as AWS CloudWatch, Azure Monitor, and Google Cloud Monitoring.
 
-Here you need to know how to set up monitoring and visualize data, crating and setting up alerting, and creating automatization during alerting.
+Here, you need to know how to set up monitoring and visualize data, create and set up alerting, and create automation during alerting.
 
 **Resources:**
 
-- [What Is Observability? Comprehensive Beginners Guide](https://devopscube.com/what-is-observability/) <sup>FREE</sup>
-- [The Hows, Whys and Whats of Monitoring Microservices](https://thenewstack.io/the-hows-whys-and-whats-of-monitoring-microservices/) <sup>FREE</sup>
-- [DevOps Monitoring](https://www.atlassian.com/devops/devops-tools/devops-monitoring) <sup>FREE</sup>
-- [Applying Basic vs. Advanced Monitoring Techniques](https://thenewstack.io/applying-basic-vs-advanced-monitoring-techniques/) <sup>FREE</sup>
-- [Learn Prometheus](https://prometheus.io/docs/tutorials/getting_started/) <sup>FREE</sup>
-- [Learn Grafana](https://grafana.com/tutorials/) <sup>FREE</sup>
-- [Beautiful Dashboards with Grafana and Prometheus](https://www.youtube.com/watch?v=fzny5uUaAeY) <sup>FREE</sup>
-- [Elastic Stack](https://www.elastic.co/guide/index.html) <sup>FREE</sup>
-- [AWS Tutorial - Amazon CloudWatch Tutorial](https://www.youtube.com/watch?v=qVYnlxdEebE) <sup>FREE</sup>
-- [Datadog 101 Course](https://www.youtube.com/watch?v=Js06FTU3nXo) <sup>FREE</sup>
-- [Splunk Fundamentals](https://www.splunk.com/en_us/training/splunk-fundamentals.html) <sup>FREE</sup>    
+- [What Is Observability? Comprehensive Beginners Guide](https://devopscube.com/what-is-observability/) <sup>FREE</sup>    
 
 ### 11. Learn one Cloud provider
 
@@ -219,7 +200,7 @@ Cloud providers provide a layer of APIs to abstract infrastructure and provision
 
 The most popular cloud providers in the market are **AWS** and **Azure**, as well as **Google Cloud**.
 
-Here you need to know how to manage users and administration, networks, virtual servers, etc.
+Here, you need to know how to manage users and administration, networks, virtual servers, etc.
 
 **Resources:**
 
@@ -232,17 +213,14 @@ Here you need to know how to manage users and administration, networks, virtual 
     - [Ultimate AWS Certified Cloud Practitioner - 2022](https://www.udemy.com/course/aws-certified-cloud-practitioner-new) <sup>Udemy</sup>
     - [AWS Developer by A Cloud Guru](https://acloudguru.com/learning-paths/aws-developer) <sup>Learning path</sup>
     - [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/) <sup>FREE</sup>
-- Google Cloud:
-    - [Google Cloud Associate Cloud Engineer Course](https://www.youtube.com/watch?v=jpno8FSqpc8) <sup>FREE</sup>
-    - [Google Cloud Well-Architected Framework](https://cloud.google.com/architecture/framework) <sup>FREE</sup>
 
 ### 12. Learn Software Engineering Practices
 
 As a DevOps engineer, you will probably work in a team with other developers in an Agile world, such as **Scrum**. So, it is very important to know different parts of **SDLC**, as well as the tools which are used there.
 
-In addition, it would be good to know how **automation testing** is working, as you will need to set up it in CI/CD way.
+In addition, it would be good to know how **automation testing** is working, as you will need to set it up in a CI/CD way.
 
-Here you need to know what is **Scrum**, all phases of **SDLC**, how **automation testing** works, etc.
+Here you need to know what **Scrum**, all phases of **SDLC**, how **automation testing** works, etc.
 
 **Resources:**
 
@@ -259,9 +237,9 @@ Here you need to know what is **Scrum**, all phases of **SDLC**, how **automatio
 
 Security must be integrated throughout the DevOps lifecycle rather than added as an afterthought.
 
-Here you will need to learn how to integrate security into the DevOps pipeline, and how to automate security testing (SAST and DAST).
+Here, you will need to learn how to integrate security into the DevOps pipeline and how to automate security testing (SAST and DAST).
 
-Also, you need to know how to manage secrets and credentials, and how to set up security policies.
+Also, you need to know how to manage secrets and credentials and how to set up security policies.
 
 **Resources:**
 
@@ -313,7 +291,7 @@ Also, you need to know how to manage secrets and credentials, and how to set up 
 
 - **[The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://amzn.to/3Z6VSQG)**, Gene Kim, Kevin Behr, George Spafford
 
-    It is a classic novel about effectiveness and communications. IT work is like manufacturing plant work, and a system must be established to streamline the workflow. One of the best books out there.
+    It is a classic novel about effectiveness and communication. IT work is like manufacturing plant work, and a system must be established to streamline the workflow. One of the best books out there.
 
 - **[Site Reliability Engineering](https://sre.google/books/)**, Betsy Beyer, Chris Jones, Jennifer Petoff, Niall Richard Murphy 
 
@@ -337,11 +315,4 @@ If you think the roadmap can be improved, please open a PR with any updates and 
 - Discuss ideas in issues
 - Spread the word
 
-## License
-
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-
-## Authors
-
-- [Dr. Milan Milanović](https://milan.milanovic.org) -  CTO at [3MD](https://3mdinc.com).
-- [Romano Roth](https://romanoroth.com) - Chief of DevOps at [Zühlke](https://www.zuehlke.com/en).
+=
