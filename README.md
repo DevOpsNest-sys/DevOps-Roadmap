@@ -59,13 +59,10 @@ Here, you need to learn basic concepts of programming languages, such as syntax,
 - Python:
   - [Automate the Boring Stuff with Python book](https://automatetheboringstuff.com/) <sup>FREE</sup>
   - [Python Crash Course](https://ehmatthes.github.io/pcc/) <sup>FREE</sup>
-- JavaScript:
+- Shell Script:
   - [The Modern JavaScript Tutorial](https://javascript.info/) <sup>FREE</sup>
   - [JavaScript Crash Course For Beginners](https://www.youtube.com/watch?v=hdI2bqOjy3c) <sup>FREE</sup>
   - [Eloquent JavaScript, 3rd edition](https://eloquentjavascript.net/), Marjin Haverbeke <sup>FREE book</sup>
-- Go
-  - [Go by Example](https://gobyexample.com/) <sup>FREE</sup>
-  - [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests) <sup>FREE</sup>
 
 ### 3. Learn Linux & Scripting
 
@@ -152,28 +149,12 @@ Here, you need to know how to do **infrastructure provisioning** and **configura
 - [GUIs, CLI, APIs: Learn Basic Terms of Infrastructure-as-Code](https://thenewstack.io/guis-cli-apis-learn-basic-terms-of-infrastructure-as-code/) <sup>FREE</sup>
 - Terraform:
     - [Official Terraform Tutorials](https://learn.hashicorp.com/terraform) <sup>FREE</sup>
-    - [A Comprehensive Guide to Terraform](https://blog.gruntwork.io/a-comprehensive-guide-to-terraform-b3d32832baca) <sup>FREE</sup>
-    - [Automate Terraform documentation like a pro!](https://medium.com/google-cloud/automate-terraform-documentation-like-a-pro-ed3e19998808) <sup>FREE</sup>
-    - [Writing reusable Terraform modules](https://thomasthornton.cloud/2022/06/02/writing-reusable-terraform-modules/) <sup>FREE</sup>
-    - [Terraform Course - Automate your AWS cloud infrastructure](https://www.youtube.com/watch?v=SLB_c_ayRMo) <sup>FREE</sup>
-    - [HashiCorp Terraform Associate Certification Course](https://www.youtube.com/watch?v=SPcwo0Gq9T8) <sup>FREE</sup>
-    - [Terraform on Azure](https://learn.microsoft.com/en-us/azure/developer/terraform/overview) <sup>FREE</sup>
-- Puppet:
-    - [Puppet overview](https://puppet.com/docs/puppet/latest/puppet_overview.html) <sup>FREE</sup>
-    - [Puppet Courses](https://training.puppet.com/) <sup>FREE and PAID</sup>
-- Chef:
-    - [Learn Chef](https://learn.chef.io/) <sup>FREE</sup>
 - Ansible:
     - [Getting Started With Ansible](https://docs.ansible.com/ansible/latest/getting_started/) <sup>FREE</sup>
-    - [Learning Ansible Basics](https://www.redhat.com/en/topics/automation/learning-ansible-tutorial)
-    - [Get started with Red Hat Ansible](https://www.ansible.com/resources/get-started) <sup>FREE and PAID</sup>
-    - [Mastering Ansible](https://www.udemy.com/course/mastering-ansible/) <sup>Udemy Course</sup
-- Istio:
-    - [What is Istio?](https://www.redhat.com/en/topics/microservices/what-is-istio) <sup>FREE</sup>
 
 ### 9. Learn CI/CD
 
-Continuous Integration / Continuous Deployment (CI/CD) is a method to frequently deliver apps to customers by introducing **automation** into the stages of app development. CI/CD is a solution to the problems integrating new code can cause for development and operations teams.
+Continuous Integration / Continuous Deployment (CI/CD) is a method to frequently deliver apps to customers by introducing **automation** into the stages of app development. CI/CD is a solution to the problems that integrating new code can cause for development and operations teams.
 
 CI/CD introduces continuous automation and **continuous** monitoring throughout the lifecycle of apps, from integration and testing phases to delivery and deployment. These connected practices are often referred to as a "**CI/CD pipeline**" and are supported by development and operations teams.
 
